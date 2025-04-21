@@ -31,7 +31,7 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/GabrielSousaSPTech">
+  <a href="https://github.com/MateusSilvaSPTECH">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusSilvaSPTECH&theme=shadow-purple&hide_border=false"/>
   </a>
 </div>
