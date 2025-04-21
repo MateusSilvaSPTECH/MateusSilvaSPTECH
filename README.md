@@ -32,13 +32,13 @@
 
 <div align="center">
   <a href="https://github.com/GabrielSousaSPTech">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/MateusSilvaSPTECH&theme=shadow-purple&hide_border=false"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusSilvaSPTECH&theme=shadow-purple&hide_border=false"/>
   </a>
 </div>
 <div align="center" style="display: flex">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSilvaSPTECH&theme=radical&hide_border=true&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  
 
 
 
