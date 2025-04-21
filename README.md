@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://github.com/GabrielSousaSPTech">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielSousaSPTech&theme=shadow-purple&hide_border=false"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/MateusSilvaSPTECH&theme=shadow-purple&hide_border=false"/>
   </a>
 </div>
 <div align="center" style="display: flex">
